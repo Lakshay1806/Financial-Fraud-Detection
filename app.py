@@ -26,7 +26,7 @@ st.markdown("### Intelligent Transaction Analysis & Graph Monitoring System")
 # LOAD DATASET
 # ---------------------------------
 
-DATA_PATH = "dataset/PS_20174392719_1491204439457_log.csv"
+DATA_PATH = "dataset/deploy_sample.csv"
 
 
 @st.cache_data
