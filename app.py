@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DATA_PATH = "dataset/PS_20174392719_1491204439457_log.csv"
+DATA_PATH = "dataset/deploy_sample.csv"
 
 
 # =====================================================
